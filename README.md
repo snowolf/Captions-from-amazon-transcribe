@@ -8,7 +8,7 @@ This repository contains code for VOD subtitle creation.
 
 
 ```shell
-python src/srt.py output_file_from_transcribe.json captions_name.srt
+python srt.py output_file_from_transcribe.json captions_name.srt
 ```
 
 
